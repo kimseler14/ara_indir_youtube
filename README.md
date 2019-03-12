@@ -1,1 +1,1 @@
-youtube'da en son yüklenen videolardan istenilen anahtar kelime ile arama yapıp, en son 20 veya kendi belirlediğiniz sayı kadar linkleri toplayıp indirme yapar.
+youtube'da en son yüklenen videolardan istenilen anahtar kelime ile arama yapıp, en son 20 veya kendi belirlediğiniz sayı kadar linkleri toplayıp indirme yapar.indirilenleri google fotoğrafa yükler.sizde manuel olarak youtube upload sayfasına google photostan videoları import edersiniz
